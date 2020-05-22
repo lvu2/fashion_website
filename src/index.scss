@@ -1,0 +1,14 @@
+$my_font_size: 2/3;
+
+body, html {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	-webkit-font-smoothing: antialiased;
+	scrollbar-width: none;
+    /*cursor: none;*/
+}
+::-webkit-scrollbar {
+    display: none;
+}

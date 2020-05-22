@@ -1,0 +1,542 @@
+{
+	"products": {
+		"Striped-Kaftan-Dress": {
+			"image_container_data": {
+				"img_list": [
+					"striped_kaftan_dress/D01_2048x2048.jpg",
+					"striped_kaftan_dress/BOUGUESSASS20.43465_2048x2048.png",
+					"striped_kaftan_dress/BOUGUESSASS20.43505_2048x2048.png",
+					"striped_kaftan_dress/D01_FRONT_2048x2048.jpg",
+					"striped_kaftan_dress/BOUGUESSAECOMSS2073898_2048x2048.jpg",
+					"striped_kaftan_dress/D01_BACK_1024x1024.jpg"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Striped Kaftan Dress",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Green Stripe, Red Stripe",
+				"fits": "Standard, Petite",
+				"price": 810,
+				"detail_list": [
+					"A-line fit",
+					"Ankle length",
+					"Twill fabric",
+					"Puffed sleeves adjustable with strings",
+					"String detail at collar",
+					"Adjustable belt",
+					"Front slit",
+					"Main fabric: 47% Viscose 42% Cotton 11% Polyamide",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"A-line-Cotton-Shirt-Dress": {
+			"image_container_data": {
+				"img_list": [
+					"a_line_cotton_shirt_dress/D08_2048x2048.jpg",
+					"a_line_cotton_shirt_dress/D08_FRONT_2048x2048.jpg",
+					"a_line_cotton_shirt_dress/D08_BACK_2048x2048.jpg",
+					"a_line_cotton_shirt_dress/IMG_8696_2048x2048.jpg",
+					"a_line_cotton_shirt_dress/pinkcopycopy_2048x2048.png"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "A-line Cotton Shirt Dress",
+				"sizes": "S/M, L/XL",
+				"colors": "Tuscan Yellow, Navy, Cinnamon Pink, Apricot, Beige, Water Blue, Black",
+				"fits": "Standard, Petite",
+				"price": 390,
+				"detail_list": [
+					"Oversized fit",
+					"Ankle length",
+					"Cotton fabric",
+					"Closes front with hidden buttons",
+					"Three quarter sleeves",
+					"In seam side pockets",
+					"One flap pocket at bust",
+					"Side slits",
+					"Main fabric: 100% Cotton",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Striped-Belted-Shirt-Dress": {
+			"image_container_data": {
+				"img_list": [
+					"striped_belted_shirt_dress/Untitled-sv2_2048x2048.jpg",
+					"striped_belted_shirt_dress/D07_2048x2048.jpg",
+					"striped_belted_shirt_dress/D07_FRONT_2048x2048.jpg",
+					"striped_belted_shirt_dress/D07_BACK_2048x2048.jpg",
+					"striped_belted_shirt_dress/IMG_9205_2048x2048.png"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Striped Belted Shirt Dress",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Red Stripe, Blue Stripe, Green Stripe",
+				"fits": "Standard, Petite",
+				"price": 535,
+				"detail_list": [
+					"Straight fit",
+					"Ankle length",
+					"Twill fabric",
+					"Mandarin collar",
+					"Closes front with hidden buttons",
+					"Two flap pockets at bust",
+					"Adjustable belt",
+					"In seam side pockets",
+					"Side slits",
+					"Main fabric: 47% Viscose 42% Cotton 11% Polyamide",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Two-tone-High-Waisted-Wide-Leg": {
+			"image_container_data": {
+				"img_list": [
+					"two_tone_high_waisted_wide_leg/ukyfk_2048x2048.jpg",
+					"two_tone_high_waisted_wide_leg/B04_FRONT_2048x2048.jpg",
+					"two_tone_high_waisted_wide_leg/B04_BACK_2048x2048.jpg",
+					"two_tone_high_waisted_wide_leg/B04_2048x2048.jpg"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Two-tone High Waisted Wide Leg Pants",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Cinnamon Pink/Rosewood Brown, Beige/Magenta",
+				"fits": "Standard, Petite",
+				"price": 455,
+				"detail_list": [
+					"Straight fit",
+					"Viscose blend fabric",
+					"High waisted",
+					"Two tone",
+					"Closes front with zipper and contrasted button",
+					"Two side pockets",
+					"Main fabric: 65% Polyester 35% Viscose",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+
+
+
+
+
+		"A-line-Crepe-T-shirt-Dress": {
+			"image_container_data": {
+				"img_list": [
+					"a_line_crepe_t_shirt_dress/D02_6e8fa160-37b6-4647-99a5-a3448ee19d95_2048x2048.jpg",
+					"a_line_crepe_t_shirt_dress/BOUGUESSASS20.43580_2048x2048.png",
+					"a_line_crepe_t_shirt_dress/D02_FRONT_2048x2048.jpg",
+					"a_line_crepe_t_shirt_dress/D02_BACK_2048x2048.jpg",
+					"a_line_crepe_t_shirt_dress/ScreenShot2020-04-20at7.31.49PM_2048x2048.jpg",
+					"a_line_crepe_t_shirt_dress/BOUGUESSAECOMSS2073979_2048x2048.jpg",
+					"a_line_crepe_t_shirt_dress/BOUGUESSAECOMSS2073976navy_2048x2048.jpg",
+					"a_line_crepe_t_shirt_dress/BOUGUESSAECOMSS2073976pinkn_2048x2048.jpg",
+					"a_line_crepe_t_shirt_dress/BOUGUESSAECOMSS2073976orange_2048x2048.jpg",
+					"a_line_crepe_t_shirt_dress/blue_2048x2048.jpg",
+					"a_line_crepe_t_shirt_dress/3f5d208a-ea4b-4c03-809e-f5617025e701_2048x2048.png"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "A-line Crepe T-shirt Dress",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Black, Golden Brown, Navy, Magenta, Orange, Water Blue",
+				"fits": "Standard, Petite",
+				"price": 675,
+				"detail_list": [
+					"A-line fit",
+					"Ankle length",
+					"Crepe fabric",
+					"Closes back with hidden zipper",
+					"Side slit closes with contrasted buttons",
+					"Main fabric: 60% Acetate 40% Viscose",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Linen-Blend-Belted-Shirt-Dress": {
+			"image_container_data": {
+				"img_list": [
+					"linen_blend_belted_shirt_dress/ecom2_2048x2048.jpg",
+					"linen_blend_belted_shirt_dress/D05_FRONT_2048x2048.jpg",
+					"linen_blend_belted_shirt_dress/D05_BACK_2048x2048.jpg",
+					"linen_blend_belted_shirt_dress/IMG_8492D_2048x2048.png",
+					"linen_blend_belted_shirt_dress/IMG_8494_2048x2048.png"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Linen Blend Belted Shirt Dress",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Tuscan Yellow, Rosewood Brown, Moss Green, Navy",
+				"fits": "Standard, Petite",
+				"price": 665,
+				"detail_list": [
+					"Straight fit",
+					"Midi length",
+					"Linen blend fabric",
+					"Contrasted buttons at bust and cuffs",
+					"Adjustable belt",
+					"Main fabric: 78% Viscose 22% Linen",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Pleated-Jupe-Culotte": {
+			"image_container_data": {
+				"img_list": [
+					"pleated_jupe_culotte/B02_a2f5b922-4f01-445a-802d-723e456e4fa7_2048x2048.jpg",
+					"pleated_jupe_culotte/vjonvn_2048x2048.jpg",
+					"pleated_jupe_culotte/BOUGUESSAECOMSS2073777_2048x2048.jpg",
+					"pleated_jupe_culotte/BOUGUESSAECOMSS2073781_2048x2048.jpg",
+					"pleated_jupe_culotte/B02_FRONT_2048x2048.jpg",
+					"pleated_jupe_culotte/B02_BACK_2048x2048.jpg"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Pleated Jupe Culotte",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Beige, Magenta, Rosewood Brown, Cinnamon Pink",
+				"fits": "Standard, Petite",
+				"price": 620,
+				"detail_list": [
+					"Straight fit",
+					"Viscose blend fabric",
+					"Ankle length",
+					"High waisted",
+					"Closes side with zipper and contrasted button",
+					"Two front flap pockets",
+					"Inner leg pleats detail",
+					"Main fabric: 65% Polyester, 35% Viscose",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Classic-Long-Crepe-Blazer": {
+			"image_container_data": {
+				"img_list": [
+					"classic_long_crepe_blazer/A04_2048x2048.jpg",
+					"classic_long_crepe_blazer/BOUGUESSASS2042485_2048x2048.png",
+					"classic_long_crepe_blazer/A04_FRONT_2048x2048.jpg",
+					"classic_long_crepe_blazer/BOUGUESSAECOMSS2073656_2048x2048.jpg",
+					"classic_long_crepe_blazer/A04_BACK_2048x2048.jpg",
+					"classic_long_crepe_blazer/6cd721cf-d395-407e-89d2-6dfec671a4d9_2048x2048.png",
+					"classic_long_crepe_blazer/IMG_8669_2048x2048.png",
+					"classic_long_crepe_blazer/A6429909-1303-4672-BC2A-E5D00C76C3E9_2048x2048.png",
+					"classic_long_crepe_blazer/2727345A-48A4-4AA8-BFE8-198E1AE52AED_2048x2048.png",
+					"classic_long_crepe_blazer/02274CE2-3CA1-431F-9E4E-CC6C27E22E31copy_2048x2048.png",
+					"classic_long_crepe_blazer/IMG_9159_2048x2048.png"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Classic Long Crepe Blazer",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Magenta, Water Blue, Golden Brown, Navy, Black",
+				"fits": "Standard, Petite",
+				"price": 1150,
+				"detail_list": [
+					"Straight fit",
+					"Ankle length",
+					"Crepe Fabric",
+					"Closes front with two contrasted buttons",
+					"Two front flap pockets",
+					"Slit at back",
+					"Main fabric: 60% Acetate 40% Viscose",
+					"Lining: 100% Cotton",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+
+
+
+
+
+		"Tapered-Pants": {
+			"image_container_data": {
+				"img_list": [
+					"tapered_pants/B08_2048x2048.jpg",
+					"tapered_pants/B08_FRONT_2048x2048.jpg",
+					"tapered_pants/B08_BACK_2048x2048.jpg",
+					"tapered_pants/BOUGUESSAECOMSS2073084_2048x2048.jpg",
+					"tapered_pants/BOUGUESSAECOMSS2073093_2048x2048.jpg"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Tapered Pants",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Magenta, Golden Brown, Navy, Water Blue, Black",
+				"fits": "Standard, Petite",
+				"price": 510,
+				"detail_list": [
+					"Tapered fit",
+					"Crepe fabric",
+					"High waisted",
+					"Closes front with zipper and contrasted button",
+					"Two side pockets",
+					"Belt loops",
+					"Main fabric: 60% Acetate 40% Viscose",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Light-Long-Jacket-Dress": {
+			"image_container_data": {
+				"img_list": [
+					"light_long_jacket_dress/ecomresized_2048x2048.jpg",
+					"light_long_jacket_dress/A01_2048x2048.jpg",
+					"light_long_jacket_dress/A01_FRONT_2048x2048.jpg",
+					"light_long_jacket_dress/BOUGUESSASS20.43417_2048x2048.png",
+					"light_long_jacket_dress/BOUGUESSAECOMSS2073850_2048x2048.jpg",
+					"light_long_jacket_dress/A01_BACK_2048x2048.jpg",
+					"light_long_jacket_dress/IMG_84462-2_2048x2048.png"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Light Long Jacket Dress",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Golden Brown, Water Blue, Black, Navy",
+				"fits": "Standard, Petite",
+				"price": 510,
+				"detail_list": [
+					"A line fit",
+					"Full length",
+					"Crepe Fabric",
+					"Adjustable belt",
+					"Two flap pockets at sides",
+					"Tie detail at sides",
+					"Main fabric: 60% Acetate 40% Viscose",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Flowy-Puffed-Sleeves-Cotton-Dress": {
+			"image_container_data": {
+				"img_list": [
+					"flowy_puffed_sleeves_cotton_dress/dressecom_2048x2048.jpg",
+					"flowy_puffed_sleeves_cotton_dress/D06_2048x2048.jpg",
+					"flowy_puffed_sleeves_cotton_dress/BOUGUESSASS20.43962_2048x2048.png",
+					"flowy_puffed_sleeves_cotton_dress/BOUGUESSASS20.43942_2048x2048.png",
+					"flowy_puffed_sleeves_cotton_dress/D06_FRONT_2048x2048.jpg",
+					"flowy_puffed_sleeves_cotton_dress/D06_BACK_2048x2048.jpg",
+					"flowy_puffed_sleeves_cotton_dress/BOUGUESSAECOMSS2074168_2048x2048.jpg",
+					"flowy_puffed_sleeves_cotton_dress/BOUGUESSAECOMSS2074172_2048x2048.jpg",
+					"flowy_puffed_sleeves_cotton_dress/BOUGUESSAECOMSS2074182_2048x2048.jpg",
+					"flowy_puffed_sleeves_cotton_dress/BOUGUESSAECOMSS2074087_2048x2048.jpg",
+					"flowy_puffed_sleeves_cotton_dress/BOUGUESSAECOMSS2074110_2048x2048.jpg",
+					"flowy_puffed_sleeves_cotton_dress/BOUGUESSAECOMSS2074065_2048x2048.jpg"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Flowy Puffed Sleeves Cotton Dress",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Magenta, Rosewood Brown, Golden Brown, Cinnamon Pink, Moss Green, Beige, Black",
+				"fits": "Standard, Petite",
+				"price": 620,
+				"detail_list": [
+					"A-line fit",
+					"Ankle length at front and full-length at back",
+					"Light cotton fabric",
+					"Puffed sleeves adjustable with strings",
+					"String detail at collar",
+					"Adjustable belt",
+					"Main fabric: 100% Cotton • Lining: 100% Cotton",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Minimal-Loose-Belted-Coat": {
+			"image_container_data": {
+				"img_list": [
+					"minimal_loose_belted_coat/A06_289bacc9-178f-41b4-9389-83b7038aeb05_2048x2048.jpg",
+					"minimal_loose_belted_coat/74EA0912-2FF5-4BBF-80E6-88A1B0E1A68F_2048x2048.png",
+					"minimal_loose_belted_coat/BOUGUESSASS2041298_2048x2048.png",
+					"minimal_loose_belted_coat/A06_FRONT_2048x2048.jpg",
+					"minimal_loose_belted_coat/A06_BACK_2048x2048.jpg",
+					"minimal_loose_belted_coat/BOUGUESSAECOMSS2073202_2048x2048.jpg",
+					"minimal_loose_belted_coat/BOUGUESSAECOMSS2073231_2048x2048.jpg",
+					"minimal_loose_belted_coat/BOUGUESSAECOMSS2073289_2048x2048.jpg",
+					"minimal_loose_belted_coat/BOUGUESSAECOMSS2073303_2048x2048.jpg",
+					"minimal_loose_belted_coat/BOUGUESSAECOMSS2073197_2048x2048.jpg",
+					"minimal_loose_belted_coat/S20A06-Navy_2048x2048.jpg",
+					"minimal_loose_belted_coat/S20A06navy_2048x2048.jpg",
+					"minimal_loose_belted_coat/MinimalLooseBeltedMossGreen_2048x2048.jpg",
+					"minimal_loose_belted_coat/BlackBelted_2048x2048.jpg"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Minimal Loose Belted Coat",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Rosewood Brown, Beige, Navy, Moss Green, Black",
+				"fits": "Standard, Petite",
+				"price": 860,
+				"detail_list": [
+					"Loose straight fit",
+					"Full length",
+					"Linen blend fabric",
+					"Adjustable contrasted striped belt",
+					"Sigle flap collar",
+					"A-line sleeves",
+					"Main fabric: 78% Viscose 22% Linen",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+
+
+
+
+
+
+
+		"Sleeveless-Twill-Dress": {
+			"image_container_data": {
+				"img_list": [
+					"sleeveless_twill_dress/D03_2048x2048.webp",
+					"sleeveless_twill_dress/D03_FRONT_2048x2048.webp",
+					"sleeveless_twill_dress/D03_BACK_2048x2048.webp"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Sleeveless Twill Dress",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Golden Brown, Cinnamon Pink, Water Blue, Navy",
+				"fits": "Standard, Petite",
+				"price": 510,
+				"detail_list": [
+					"Straight fit",
+					"Ankle length",
+					"Twill fabric",
+					"Sleeveless",
+					"In seam side pockets",
+					"Side slits",
+					"Closes back with hidden zipper",
+					"Main fabric: 100% Polyester",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Long-Buttoned-Down-Trench": {
+			"image_container_data": {
+				"img_list": [
+					"long_buttoned_down_trench/ScreenShot2020-04-20at7.31.49PM_8cc2101e-51b1-4cf9-baaf-fb12079e68c3_2048x2048.webp",
+					"long_buttoned_down_trench/BOUGUESSASS2042144-2_2048x2048.webp",
+					"long_buttoned_down_trench/A05_FRONT_2048x2048.webp",
+					"long_buttoned_down_trench/A05_BACK_2048x2048.webp",
+					"long_buttoned_down_trench/BOUGUESSAECOMSS2073160_2048x2048.webp",
+					"long_buttoned_down_trench/BOUGUESSAECOMSS2073133_2048x2048.webp",
+					"long_buttoned_down_trench/Rosewoodbrown_2048x2048.webp",
+					"long_buttoned_down_trench/Black_2048x2048.webp",
+					"long_buttoned_down_trench/beige_2048x2048.webp",
+					"long_buttoned_down_trench/navy_2048x2048.webp",
+					"long_buttoned_down_trench/IMG_8454_2048x2048.webp",
+					"long_buttoned_down_trench/IMG_8447_2048x2048.webp",
+					"long_buttoned_down_trench/IMG_8466_2048x2048.webp",
+					"long_buttoned_down_trench/IMG_8477_2048x2048.webp"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Long Buttoned Down Trench",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Moss Green, Rosewood Brown, Black, Beige, Navy",
+				"fits": "Standard, Petite",
+				"price": 1085,
+				"detail_list": [
+					"Loose fit",
+					"Ankle length",
+					"Linen blend fabric",
+					"Closes front with contrasted buttons",
+					"Detachable sleeves with button details",
+					"Elastic ties at sleeves",
+					"Two front flap pockets",
+					"Elastic details at waist sides and sleeves",
+					"Button details at bottom sides and back",
+					"Main fabric: 78% Viscose 22% Linen",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		},
+		"Long-Belted-Trench": {
+			"image_container_data": {
+				"img_list": [
+					"long_belted_trench/A02_2048x2048.jpg",
+					"long_belted_trench/A02_FRONT_2048x2048.jpg",
+					"long_belted_trench/BOUGUESSAECOMSS2073417_2048x2048.jpg",
+					"long_belted_trench/A02_BACK_2048x2048.jpg",
+					"long_belted_trench/BOUGUESSAECOMSS2073503_2048x2048.jpg",
+					"long_belted_trench/BOUGUESSAECOMSS2073479_2048x2048.jpg",
+					"long_belted_trench/BOUGUESSAECOMSS2073505_2048x2048.jpg",
+					"long_belted_trench/IMG_8589_Facetune_21-03-2020-21-24-00_2048x2048.png",
+					"long_belted_trench/IMG_8596_Facetune_21-03-2020-21-26-10_2048x2048.png",
+					"long_belted_trench/55AF89E3-2873-4FD4-A3D7-DDFF1AA29408_2048x2048.png",
+					"long_belted_trench/IMG_8575_Facetune_21-03-2020-21-35-02_2048x2048.png",
+					"long_belted_trench/IMG_8805_Facetune_25-03-2020-21-24-36_2048x2048.png",
+					"long_belted_trench/0785D941-1A8A-47AE-AF10-D054CD427880_2048x2048.png"
+				]
+			},
+			"product_container_data": {	
+				"product_name": "Long Buttoned Down Trench",
+				"sizes": "XS, S, M, L, XL",
+				"colors": "Water Blue, Rosewood Brown, Tuscan Yellow, Tangerine, Beige",
+				"fits": "Standard, Petite",
+				"price": 1070,
+				"detail_list": [
+					"Straight fit",
+					"Ankle length",
+					"Adjustable belt",
+					"Oval contrasted buttons details at sleeves and shoulder flaps",
+					"Two flap pockets at sides",
+					"Elastic ties at sleeves",
+					"Main fabric: 100% Polyester",
+					"Lining: 100% Cotton",
+					"Dry clean",
+					"Made in UAE"
+				],
+				"qr_url": "https://www.bodylandmark.com/"
+			}
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

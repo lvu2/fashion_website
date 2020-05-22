@@ -1,0 +1,100 @@
+{
+	"fall-winter-19-20" : {
+		"top_container_data": {
+			"top_image_url": "fall-winter-19-20/Collection-Cover(5).jpg",
+			"font_color": "black",
+			"top_main_upper_text": "Fall",
+			"top_main_lower_text": "Winter",
+			"top_main_year": "19-20"
+		},
+		"slide_container_data": {
+			"left_slide_list": [
+				"fall-winter-19-20/BOUGUESSA-FW1911624-1-copy-copy.png",
+				"fall-winter-19-20/BOUGUESSA-FW1911828-3-copy.png",
+				"fall-winter-19-20/BOUGUESSA-FW1913947-1-copy.png",
+				"fall-winter-19-20/BOUGUESSA-FW1914199-3-copy.png"
+			],
+			"right_slide_list": [
+				"fall-winter-19-20/BOUGUESSA-FW1911679-1-copy.png",
+				"fall-winter-19-20/46.png",
+				"fall-winter-19-20/BOUGUESSA-FW1913964-1-copy.png",
+				"fall-winter-19-20/50.png"
+			]
+		},
+		"about_container_data": {
+			"upper_image_url": "fall-winter-19-20/home-3.jpg",
+			"about_text": "Chromatic is the visual representation of colors sensibly arranged according to their chromatic relationship and forming a unity in a color wheel. The chromatic collection allows each woman to make the pieces her own with its rich gradient of colors and offers an infinite number of stylistic possibilities. ",
+			"lower_image_url": "fall-winter-19-20/home-4.png"
+		},
+		"inspiration_container_data": {
+			"image_url": "fall-winter-19-20/INSPIRATION_collection-inspiration_1260_850_crop.png",
+			"inspiration_text": "Chromatic represents the diversity of women through their skin colors, body shapes and the different facets of their personality. "
+		}
+	},
+
+	"spring-summer-20-21" : {
+		"top_container_data": {
+			"top_image_url": "spring-summer-20-21/Collection-Cover.png",
+			"font_color": "black",
+			"top_main_upper_text": "Spring",
+			"top_main_lower_text": "Summer",
+			"top_main_year": "20-21"
+		},
+		"slide_container_data": {
+			"left_slide_list": [
+				"spring-summer-20-21/A01-LEFT.jpg",
+				"spring-summer-20-21/A02-LEFT.jpg",
+				"spring-summer-20-21/A03-LEFT.jpg",
+				"spring-summer-20-21/A04-LEFT.jpg"
+			],
+			"right_slide_list": [
+				"spring-summer-20-21/A01-Right.jpg",
+				"spring-summer-20-21/A02-RIGHT.jpg",
+				"spring-summer-20-21/A03-RIGHT.jpg",
+				"spring-summer-20-21/A04-RIGHT.jpg"
+			]
+		},
+		"about_container_data": {
+			"upper_image_url": "spring-summer-20-21/About-1.png",
+			"about_text": "This season, the spring summer 20 collection explores the idea of being oneself, far from the rules imposed to us and evolves around two major axes: a desire for calmness but also a desire to celebrate life.  The colour palette is fresh with a combination of new neutrals and warm sunset hues of beige, golden brown, rich rosewood and cinnamon pink contrast against electric touches of magenta, warm yellow and clear water blue.",
+			"lower_image_url": "spring-summer-20-21/About-2.png"
+		},
+		"inspiration_container_data": {
+			"image_url": "spring-summer-20-21/Inspiration.png",
+			"inspiration_text": "Dressing real women is always the main focus.  That's why the range includes flattering silhouettes, subtle volumes, flowy draping and suits that are reworked to fit the femininity of the modern woman reinterpreted in an optimistic and spontaneous fashion for a joyful and easy summertime."
+		}
+	},
+
+	"resort-2020" : {
+		"top_container_data": {
+			"top_image_url": "resort-2020/Collection-Cover.jpg",
+			"font_color": "black",
+			"top_main_upper_text": "",
+			"top_main_lower_text": "Resort",
+			"top_main_year": "20-21"
+		},
+		"slide_container_data": {
+			"left_slide_list": [
+				"spring-summer-20-21/A01-LEFT.jpg",
+				"spring-summer-20-21/A02-LEFT.jpg",
+				"spring-summer-20-21/A03-LEFT.jpg",
+				"spring-summer-20-21/A04-LEFT.jpg"
+			],
+			"right_slide_list": [
+				"spring-summer-20-21/A01-Right.jpg",
+				"spring-summer-20-21/A02-RIGHT.jpg",
+				"spring-summer-20-21/A03-RIGHT.jpg",
+				"spring-summer-20-21/A04-RIGHT.jpg"
+			]
+		},
+		"about_container_data": {
+			"upper_image_url": "spring-summer-20-21/About-1.png",
+			"about_text": "For Resort 20, discover streamlined silhouettes that offer modern sophistication and easy elegance. Alongside a lineup of crisp white tailoring, the collection includes pleated chiffon occasion wear in candy-coated pastels and floor-sweeping sequins pieces.",
+			"lower_image_url": "spring-summer-20-21/About-2.png"
+		},
+		"inspiration_container_data": {
+			"image_url": "spring-summer-20-21/Inspiration.png",
+			"inspiration_text": "The Resort 20 celebrates the lasting legacy of the elegant sense of style taken from the iconic Hollywood nights. "
+		}
+	}
+}
